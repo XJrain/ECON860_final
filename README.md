@@ -5,19 +5,30 @@ This program is a python script designed to analyze the relationship between per
 
 ## Dependencies 
 'pandas' is a library that is used for data manipulation. This helps us create and manage data frames. 
+
 'Matplotlib' a library allowing used to create a variety of visualizations for data.
+
 'Factor_Analyzer' is a library allowing for the performance of explorator and factor analysis 
+
 'Numpy' is a library that adds support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+
 'Scikit-learn' is a library adding simple tools for predictive data analysis 
+
 'Scikit-learn-extra'  is a library for machine learning that extends scikit-learn. It includes algorithms that are useful but are not in 'Scikit-learn'
+
 ## Install
 This program was written in the IDE PyCharm 2023. In order to use this scraper, clone the repository or download the both script to your computer. You can install the required libraries using the commands below. 
 
 pip install numpy
+
 pip install pandas
+
 pip install matplotlib
+
 pip install factor_analyzer
+
 pip install scikit-learn
+
 pip install scikit-learn-extra
 
 ## Screenshots
