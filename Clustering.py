@@ -34,7 +34,7 @@ def run_gmm(n, data):
     return silhouette_score(data, resultsgmm, metric="euclidean")
 
 # Running Clustering Algorithms
-num_clusters = 5  # Adjust as necessary
+num_clusters = 5  
 kmeans_score = run_kmeans(num_clusters, data)
 gmm_score = run_gmm(num_clusters, data)
 
